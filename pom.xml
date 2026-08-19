@@ -67,7 +67,7 @@
         <repository>
             <id>nexus</id>
             <name>Spring3 MVC Releases</name>
-            <url>http://52.66.241.220:8081/repository/spring3-mvc-maven-xml-hello-world/</url>
+            <url>http://3.110.27.100:8081/repository/spring3-mvc-maven-xml-hello-world/</url>
         </repository>
     </distributionManagement>
 
